@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161860665390",
+    "project_id": "evaluacion-96059",
+    "storage_bucket": "evaluacion-96059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161860665390:android:5b267a0aa5b9a4dc849fbf",
+        "android_client_info": {
+          "package_name": "com.ro.evaluacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkg880c-zgSZUcjj1UG_8J-ZDwnfrgX-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
